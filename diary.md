@@ -118,6 +118,16 @@ except pd.errors.EmptyDataError:
 
 **Reflection:** AI helped me think about user experience, not just technical functionality. Good error messages help users understand what went wrong and how to fix it. This is crucial for business applications.
 
+### Entry 7 – Budget Buddy Chatbot Interface
+**Artifact:** <img width="1160" height="376" alt="image" src="https://github.com/user-attachments/assets/5e2e31e2-9f9e-4803-b4a6-630795baa5ea" />
+**Context:** I used AI assistance to create an interactive financial advice chatbot for Budget Buddy that provides budgeting and spending recommendations based on user questions.
+
+**My Approach:** AI helped generate a Gradio chatbot interface with custom budgeting responses and a user-friendly finance assistant design.
+**Reflection:** AI assistance helped me build an interactive chatbot interface for Budget Buddy using Gradio. I learned how chatbot logic can provide personalised budgeting advice based on user questions. This improved the business value of the application by making the finance assistant more interactive, user-friendly, and practical for everyday budgeting support.
+
+
+
+
 ---
 
 ## AI Collaboration Best Practices I've Learned
