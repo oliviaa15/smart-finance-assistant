@@ -53,11 +53,13 @@ Reflection: I created normal, refund, and missing-data datasets to test differen
 
 
 
+<img width="890" height="647" alt="image" src="https://github.com/user-attachments/assets/b6bb7d90-1c05-404f-a1e4-412bc5464b9c" />
 
 
+Artifact: Screenshot showing a NameError caused by the variable df being used outside the analyze_spending_patterns() function due to incorrect indentation.
 
-
-
-
----
+Context: My goal was to debug and improve the spending analysis function in my Smart Finance Assistant after receiving Python errors during testing.
+**
+Reflection: I learned that Python indentation is very important because it controls which code belongs inside a function. The AI explanation helped me understand that variables created inside a function cannot be accessed outside of it unless returned properly. By correcting the indentation, I was able to fix the NameError and make the spending analysis function work correctly. This experience improved my debugging skills and taught me to carefully review AI-generated code before using it in my project.
+---**
 
