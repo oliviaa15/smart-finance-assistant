@@ -201,6 +201,11 @@ Run the installation cells:
 ```
 
 ## Step 3: Run All Python Cells
+Make sure `sample_transactions.csv` is in the same directory as `starter_notebook.ipynb` before running the notebook.
+
+The notebook uses:
+
+pd.read_csv("sample_transactions.csv")
 Run all implementation cells in order:
 - Data loading
 - Spending analysis
